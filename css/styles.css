@@ -208,7 +208,7 @@ body {
 
   color: var(--header-contacts-color);
 
-  transition: color var(--transition-options);
+  transition: color var(--transition-options), fill var(--transition-options);
 }
 
 .header-contacts-link:hover,
